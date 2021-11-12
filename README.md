@@ -1,10 +1,11 @@
 # Game_OpenCV - Chương Trình Chơi Game Bằng Webcam
-Ngôn ngữ lập trình: python
-Các hàm thư viện được sử dụng: opencv, numpy, dlib, imutils, scripy.
+Ngôn ngữ lập trình: Python.
+Các hàm thư viện được sử dụng: opencv, Numpy, Dlib, Imutils, Scripy.
 Lưu ý: Cần cài đặt đầy đủ các hàm thư viện thì chương trình mới có thể chạy được!
 ---------------
 
-Tải file nhận diện khuôn mặt tại: http://www.mediafire.com/file/j1c8qfqbs662x22j/shape_predictor_68_face_landmarks.dat/file
+Tải file nhận diện khuôn mặt tại: http://www.mediafire.com/file/j1c8qfqbs662x22j/shape_predictor_68_face_landmarks.dat/file.
+Cần để file nhận diện khuôn mặt trùng với file Game_OpenCV.py
 ---------------
 
 Nhóm 8 - 19CN2
