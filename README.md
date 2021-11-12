@@ -4,6 +4,9 @@ Các hàm thư viện được sử dụng: opencv, numpy, dlib, imutils, scripy
 Lưu ý: Cần cài đặt đầy đủ các hàm thư viện thì chương trình mới có thể chạy được!
 ---------------
 
+Tải file nhận diện khuôn mặt tại: http://www.mediafire.com/file/j1c8qfqbs662x22j/shape_predictor_68_face_landmarks.dat/file
+---------------
+
 Nhóm 8 - 19CN2
 Thành Viên Nhóm:
 - Nguyễn Văn Toàn
